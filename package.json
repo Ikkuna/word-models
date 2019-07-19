@@ -28,6 +28,7 @@
   },
   "homepage": "https://github.com/Ikkuna/word-models",
   "dependencies": {
+    "SVD": "git+https://github.com/Ikkuna/SVD.git#master",
     "change-case": "^3.0.1",
     "charm": "^1.0.0",
     "mime": "^2.4.0",
@@ -37,6 +38,7 @@
     "chai": "4.x.x",
     "codecov.io": "^0.1.5",
     "istanbul": "^0.4.5",
-    "mocha": "5.x.x"
+    "mocha": "5.x.x",
+    "IkkunaSVD": "git+https://github.com/Ikkuna/SVD#master"
   }
 }
